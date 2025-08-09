@@ -11,8 +11,7 @@
 
 ### Team Members
 - Team Lead: Ann Rose Thomson - Sahrdaya College of Engineering and Technology
-- Member 2: Ann Rose Thomson - Sahrdaya College of Engineering and Technology
-- Member 3: Annrea Lijo - Sahrdaya College of Engineering and Technology
+- Member 2: Annrea Lijo - Sahrdaya College of Engineering and Technology
 
 ### Project Description
 This project is a Flask-based backend API that analyzes human facial images to detect emotions, age, gender, and race using the DeepFace deep learning framework. It then generates a set of funny, culturally relevant Malayalam text statuses based on the facial analysis, alongside a natural-sounding Malayalam audio output of these statuses using Google Text-to-Speech (gTTS).
@@ -61,9 +60,8 @@ https://github.com/annrosethomson2004/Ketto-Sathyam/blob/352a762daabcb2002bdd8d6
 https://ketto-sathyam.vercel.app/
 
 ## Team Contributions
-- AnnRose Thomson: [Specific contributions]
-- Annrea: [Specific contributions]
-
+- AnnRose Thomson: Developed the Flask backend and implemented face analysis with DeepFace to generate funny Malayalam text statuses.
+- Annrea:  Integrated Malayalam text-to-speech, handled API routing, CORS, error handling, and prepared documentation.
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
