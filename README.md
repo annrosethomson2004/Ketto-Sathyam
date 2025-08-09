@@ -56,16 +56,14 @@ For Software:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
+https://github.com/annrosethomson2004/Ketto-Sathyam/blob/352a762daabcb2002bdd8d6b30c9616930d9782d/Screen%20Recording%202025-08-09%20062536.mp4
+# Live Demos
+https://ketto-sathyam.vercel.app/
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- AnnRose Thomson: [Specific contributions]
+- Annrea: [Specific contributions]
+
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
